@@ -18,7 +18,7 @@ if __name__ == '__main__':
         max = int(tmp[0][1])
         print("min = ", min , " and max = ", max)
         print(tmp[1], " appears ", Counter(tmp[2])[tmp[1]], " times")
-        if cntr[tmp[1]] <= max & cntr[tmp[1]] >= min:
+        if cntr[tmp[1]] <= max and cntr[tmp[1]] >= min:
             print("Found a good one ", tmp)
             goodOnes += 1
 
