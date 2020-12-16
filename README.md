@@ -3,7 +3,7 @@
 Will try to finish all of them this year unlike years pasts. Also adding in pytest to work more on test cases
 
 # Installation
-``` git clone https://repo/.git```
+``` git clone https://github.com/FurmanSK/adventofcode2020.git```
 
 Then you can cd into any directory to run each day.
 
