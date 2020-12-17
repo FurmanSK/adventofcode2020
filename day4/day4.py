@@ -1,4 +1,3 @@
-from os import truncate
 import re
 
 class Day4:
